@@ -2,9 +2,9 @@
 title: 小小吐槽
 date: 2025-11-03 12:20:08
 tags:
-    -吐槽
+    - 吐槽
 categories:
-    -日常
+    - 日常
 cover: /images/ri_chang.jpg
 ---
 噫嘘唏，数字电路之难。。。  
