@@ -29,9 +29,9 @@ menu:
     关于本人:
         - /about/
         - icon-user
-    我的朋友:
-        - /friends.html
-        - icon-team
+    我的笔记:
+        - /note/
+        - icon-container-fill
 
 widgets:
     - social
