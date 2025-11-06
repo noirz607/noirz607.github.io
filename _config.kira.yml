@@ -62,6 +62,11 @@ social:
         - icon-gitee
         - rgb(165, 15, 15)
         - rgba(165, 15, 15, .15)
+    rss:
+        - ./atom.xml
+        - icon-container
+        - rgb(255, 204, 102)
+        - rgba(255, 204, 102, .15)
 
 color: # 配色方案，从first到seventh为优先级为1-7的颜色，默认为彩虹配色
     first: # 同时作为主题色
